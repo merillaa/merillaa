@@ -3,7 +3,7 @@
 I'm Ilayda (she/her), a computer science student based in Germany!
 
 My main fields of interest are software development and data science.
-I'm currently working on building websites, apps and games. Check out my website:
+I'm currently working on building websites, apps and games. Check out my website: *construction zone*
 
 I have a interdisciplinary background in philosophy, german studies, assyriology and egyptology.
 
